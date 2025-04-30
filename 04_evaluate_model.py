@@ -26,3 +26,5 @@ plt.ylabel("Normalized Price")
 plt.legend()
 plt.tight_layout()
 plt.show()
+
+plt.savefig("plots/reloaded_model_predictions.png")
